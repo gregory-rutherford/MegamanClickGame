@@ -15,9 +15,10 @@ class App extends React.Component{
         <Header />
         {this.state.robots.map(robot =>(
         <RobotCard 
-        id = {robots.id}
-        name= {robots.name}
-        image={robots.image}/>
+        id ={robot.id}
+        key={robot.id}
+        name= {robot.name}
+        image={robot.image}/>
         ))}
       </Wrapper>  
     </div>
