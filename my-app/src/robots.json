@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Bubble Man", "image": "/images/bubbleman.png" },
+  { "id": 2, "name": "Air Man", "image": "/images/airman.png" },
+  { "id": 3, "name": "Quick Man", "image": "/images/quickman.png" },
+  { "id": 4, "name": "Heat Man", "image": "image here" },
+  { "id": 5, "name": "Dr. Wily", "image": "image here" },
+  { "id": 6, "name": "Wood Man", "image": "image here" },
+  { "id": 7, "name": "Metal Man", "image": "image here" },
+  { "id": 8, "name": "Flash Man", "image": "image here" },
+  { "id": 9, "name": "Crash Man", "image": "image here" }
+]
