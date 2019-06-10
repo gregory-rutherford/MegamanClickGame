@@ -1,4 +1,5 @@
 import React from 'react';
+import '../css/Wrapper.css';
 
 class Wrapper extends React.Component{
     render(){

@@ -1,22 +1,35 @@
 import React from "react";
+import "../css/RobotCard.css"
 
-class RobotCard extends React.Component {
-  render() {
-    return (
-      <div className="card">
-        <div className="img-container">
-          <img alt={this.props.name} src={this.props.image} />
+const RobotCard = (props) => 
+    <div className="card">
+        <div className="img-container" onClick={props.selectRobot}>
+          <img alt={props.name} src={props.image} />
         </div>
         <div className="content">
-          <ul>
-            <li>
-              <strong>Name:</strong> {this.props.name}
-            </li>
-          </ul>
+            <p>
+               {props.name}
+            </p>
         </div>
       </div>
-    );
-  }
-}
+
+
+// class RobotCard extends React.Component {
+   
+//   render() {
+//     return (
+//         <div className="card">
+//         <div className="img-container" onClick={() => this.props.selectRobot()}>
+//           <img alt={this.props.name} src={this.props.image} />
+//         </div>
+//         <div className="content">
+//             <p>
+//                {this.props.name}
+//             </p>
+//         </div>
+//       </div>
+//     );
+//   }
+// }
 
 export default RobotCard;
