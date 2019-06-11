@@ -1,19 +1,16 @@
 import React from "react";
 
-class Nav extends React.Component{
-  render() {
-    return (
+const Nav = (props) => 
       <div className="navbar">
         <nav>
         <a href="/">
           Megaman II Memory Game
         </a>
-        <p><span className='guessDisplay'></span></p>
-        <p><span className='scoreBoard'></span></p>
+        <p>You Guessed: <span className='guessDisplay'>{props.message}</span></p>
+        <p>Your Score: <span className='scoreBoard'>{props.score}</span></p>
+        <p>High Score: <span className='highScore'>{props.topScore}</span></p>
         </nav>
       </div>
-    );
-  }
-}
+
 
 export default Nav;

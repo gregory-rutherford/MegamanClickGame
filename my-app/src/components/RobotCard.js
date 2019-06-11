@@ -3,7 +3,7 @@ import "../css/RobotCard.css"
 
 const RobotCard = (props) => 
     <div className="card">
-        <div className="img-container" onClick={props.selectRobot}>
+        <div className="img-container" onClick={props.shuffle}>
           <img alt={props.name} src={props.image} />
         </div>
         <div className="content">
