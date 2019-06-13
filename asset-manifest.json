@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gregory-rutherford/MegamanClickGame/static/css/main.a88a7e86.chunk.css",
+    "main.js": "/gregory-rutherford/MegamanClickGame/static/js/main.4781498e.chunk.js",
+    "main.js.map": "/gregory-rutherford/MegamanClickGame/static/js/main.4781498e.chunk.js.map",
+    "runtime~main.js": "/gregory-rutherford/MegamanClickGame/static/js/runtime~main.a81e2487.js",
+    "runtime~main.js.map": "/gregory-rutherford/MegamanClickGame/static/js/runtime~main.a81e2487.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/gregory-rutherford/MegamanClickGame/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/gregory-rutherford/MegamanClickGame/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/gregory-rutherford/MegamanClickGame/index.html",
+    "precache-manifest.c4464571a50f18d72914165295339ec8.js": "/gregory-rutherford/MegamanClickGame/precache-manifest.c4464571a50f18d72914165295339ec8.js",
+    "service-worker.js": "/gregory-rutherford/MegamanClickGame/service-worker.js",
+    "static/css/main.a88a7e86.chunk.css.map": "/gregory-rutherford/MegamanClickGame/static/css/main.a88a7e86.chunk.css.map"
+  }
+}
