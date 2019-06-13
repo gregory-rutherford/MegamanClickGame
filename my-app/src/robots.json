@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "Bubble Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/736.png" },
+  { "id": 2, "name": "Air Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/734.png" },
+  { "id": 3, "name": "Quick Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2323.png" },
+  { "id": 4, "name": "Heat Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2320.png" },
+  { "id": 5, "name": "Dr. Wily", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2317.png" },
+  { "id": 6, "name": "Wood Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2326.png" },
+  { "id": 7, "name": "Metal Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2322.png" },
+  { "id": 8, "name": "Flash Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2319.png" },
+  { "id": 9, "name": "Crash Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/737.png" }
+]

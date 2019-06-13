@@ -1,0 +1,14 @@
+.wrapper{
+  padding-top: 120px !important;
+  background: #ECEFF1;
+  /* height: 100%;
+  width: 100vw; */
+  display: flex;
+  flex-flow: row wrap;
+  padding: 40px;
+  padding-left: 0px !important;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  min-height: 100vh;
+}
