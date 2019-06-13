@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gregory-rutherford/MegamanClickGame/static/css/main.a88a7e86.chunk.css",
-    "main.js": "/gregory-rutherford/MegamanClickGame/static/js/main.4781498e.chunk.js",
-    "main.js.map": "/gregory-rutherford/MegamanClickGame/static/js/main.4781498e.chunk.js.map",
-    "runtime~main.js": "/gregory-rutherford/MegamanClickGame/static/js/runtime~main.a81e2487.js",
-    "runtime~main.js.map": "/gregory-rutherford/MegamanClickGame/static/js/runtime~main.a81e2487.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/gregory-rutherford/MegamanClickGame/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/gregory-rutherford/MegamanClickGame/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/gregory-rutherford/MegamanClickGame/index.html",
-    "precache-manifest.c4464571a50f18d72914165295339ec8.js": "/gregory-rutherford/MegamanClickGame/precache-manifest.c4464571a50f18d72914165295339ec8.js",
-    "service-worker.js": "/gregory-rutherford/MegamanClickGame/service-worker.js",
-    "static/css/main.a88a7e86.chunk.css.map": "/gregory-rutherford/MegamanClickGame/static/css/main.a88a7e86.chunk.css.map"
+    "main.css": "/MegamanClickGame/static/css/main.a88a7e86.chunk.css",
+    "main.js": "/MegamanClickGame/static/js/main.4c90edc2.chunk.js",
+    "main.js.map": "/MegamanClickGame/static/js/main.4c90edc2.chunk.js.map",
+    "runtime~main.js": "/MegamanClickGame/static/js/runtime~main.7b002a21.js",
+    "runtime~main.js.map": "/MegamanClickGame/static/js/runtime~main.7b002a21.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/MegamanClickGame/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/MegamanClickGame/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/MegamanClickGame/index.html",
+    "precache-manifest.0f314ea0a1dbe5fbcc04ac2bf38265b7.js": "/MegamanClickGame/precache-manifest.0f314ea0a1dbe5fbcc04ac2bf38265b7.js",
+    "service-worker.js": "/MegamanClickGame/service-worker.js",
+    "static/css/main.a88a7e86.chunk.css.map": "/MegamanClickGame/static/css/main.a88a7e86.chunk.css.map"
   }
 }
