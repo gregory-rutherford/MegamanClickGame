@@ -1,14 +1,13 @@
 import React from "react";
+import "../css/Nav.css";
 
 const Nav = (props) => 
       <div className="navbar">
         <nav>
-        <a href="/">
-          Megaman II Memory Game
-        </a>
-        <p>You Guessed: <span className='guessDisplay'>{props.message}</span></p>
-        <p>Your Score: <span className='scoreBoard'>{props.score}</span></p>
-        <p>High Score: <span className='highScore'>{props.topScore}</span></p>
+          <p>Megaman II Memory Game</p>
+          <p>{props.message}</p>
+          <p>Score: {props.score} | Top Score: {props.topScore}</p>
+        
         </nav>
       </div>
 

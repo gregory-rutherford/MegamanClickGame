@@ -1,11 +1,11 @@
 [
-  { "id": 1, "name": "Bubble Man", "image": "http://pa1.narvii.com/6809/63f28dc4e717f872622b83c7f90a4a8d4f380087_00.gif" },
-  { "id": 2, "name": "Air Man", "image": "https://i1.sndcdn.com/artworks-000160539238-4k4oe3-t500x500.jpg" },
-  { "id": 3, "name": "Quick Man", "image": "https://i.imgur.com/4JdL2ah.png" },
-  { "id": 4, "name": "Heat Man", "image": "https://banner2.kisspng.com/20180606/gc/kisspng-mega-man-2-pixel-art-5b1766fa849194.191877181528260346543.jpg" },
-  { "id": 5, "name": "Dr. Wily", "image": "http://static.squarespace.com/static/5227cd84e4b02515a5badc7f/522e7089e4b0ae98001e1da2/522e70a0e4b0ae98001e24cd/1264955876000/wilyscare.png?format=original" },
-  { "id": 6, "name": "Wood Man", "image": "http://pixelartmaker.com/art/b59fbf1396d7b37.png" },
-  { "id": 7, "name": "Metal Man", "image": "https://i1.sndcdn.com/artworks-000219662334-l90bx6-t500x500.jpg" },
-  { "id": 8, "name": "Flash Man", "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1a13489-1f51-40d9-9a29-2a645acd484a/dcpn7pl-3727daeb-343a-4ad7-9d21-e47a964fae34.png/v1/fit/w_150,h_150,strp/flash_man_shaded_by_manofthebeans_dcpn7pl-150.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2ExYTEzNDg5LTFmNTEtNDBkOS05YTI5LTJhNjQ1YWNkNDg0YVwvZGNwbjdwbC0zNzI3ZGFlYi0zNDNhLTRhZDctOWQyMS1lNDdhOTY0ZmFlMzQucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TDei0ZEWljLCjdkPaAIzkNVuHhle2sO-3TB8puctMfU" },
-  { "id": 9, "name": "Crash Man", "image": "https://i1.sndcdn.com/artworks-000157368514-2uzzqo-t500x500.jpg" }
+  { "id": 1, "name": "Bubble Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/736.png" },
+  { "id": 2, "name": "Air Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/734.png" },
+  { "id": 3, "name": "Quick Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2323.png" },
+  { "id": 4, "name": "Heat Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2320.png" },
+  { "id": 5, "name": "Dr. Wily", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2317.png" },
+  { "id": 6, "name": "Wood Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2326.png" },
+  { "id": 7, "name": "Metal Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2322.png" },
+  { "id": 8, "name": "Flash Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/3/2319.png" },
+  { "id": 9, "name": "Crash Man", "image": "https://www.spriters-resource.com/resources/sheet_icons/1/737.png" }
 ]

@@ -3,8 +3,12 @@ import "../css/RobotCard.css"
 
 const RobotCard = (props) => 
     <div className="card">
-        <div className="img-container" onClick={props.shuffle}>
-          <img alt={props.name} src={props.image} />
+        <div className="img-container">
+          <img 
+          alt={props.name} 
+          src={props.image}
+        onClick={() => props.clicky(props.id)}
+          />
         </div>
         <div className="content">
             <p>
@@ -13,23 +17,5 @@ const RobotCard = (props) =>
         </div>
       </div>
 
-
-// class RobotCard extends React.Component {
-   
-//   render() {
-//     return (
-//         <div className="card">
-//         <div className="img-container" onClick={() => this.props.selectRobot()}>
-//           <img alt={this.props.name} src={this.props.image} />
-//         </div>
-//         <div className="content">
-//             <p>
-//                {this.props.name}
-//             </p>
-//         </div>
-//       </div>
-//     );
-//   }
-// }
 
 export default RobotCard;

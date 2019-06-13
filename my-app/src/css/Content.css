@@ -1,0 +1,10 @@
+.site-content {
+  /* flex: 1; */
+  display: flex;
+  flex-flow: row wrap;
+  padding: 40px;
+  justify-content: space-evenly;
+  align-content: flex-start;
+  overflow: auto;
+  font-family: "Courier New", Courier, monospace;
+}
