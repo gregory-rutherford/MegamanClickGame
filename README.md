@@ -4,7 +4,6 @@ __This app is deployed on__ https://gregory-rutherford.github.io/MegamanClickGam
 
 ### Stack
 * React (create-react-app)
-* Node.js
 * CSS
 
 #### The Process:
